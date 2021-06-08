@@ -29,6 +29,7 @@ class Cuadro(Frame):
             # Frame que contiene objetos:
             self.z = Frame(window)
             self.z.pack()
+            # Comentario
 
         self.lista_de_objetos = []
         self.lista_de_datos = []
