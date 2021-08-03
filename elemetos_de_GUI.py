@@ -364,9 +364,8 @@ class ScrollFrame(Frame):
             canvas_width, canvas_height = event.width, event.height
             self.canvas.itemconfig(self.canvas_window, width = canvas_width, height = canvas_height)
 
-  
+Lucho
+Prueba 1
+Prueba 2
+
 # Prueba
-hola
-print
-hola
-prueba 111
